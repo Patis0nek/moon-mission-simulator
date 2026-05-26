@@ -1,0 +1,5 @@
+    moon_phase = 1.04;
+
+    double alpha = -1;
+    double speed = 10950.0;
+    double gamma = 0.125;

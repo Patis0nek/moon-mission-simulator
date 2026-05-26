@@ -1,0 +1,18 @@
+Moon Mission Simulator - Mission Summary
+
+model = parking orbit + impulsive TLI + Earth-Moon coast
+
+final moon_phase at TLI = 0.4 rad
+corrected moon_phase at simulation start = 0.38589 rad
+parking orbit altitude = 200 km
+parking orbit period = 88.3513 min
+
+alpha = -1 rad
+TLI speed = 10930 m/s
+gamma = 0.375 rad
+
+closest Moon approach = 8248.67 km
+time of closest Moon approach = 93.317 h
+maximum Earth altitude = 388020 km
+return time = 187.234 h
+return velocity = 10.9804 km/s

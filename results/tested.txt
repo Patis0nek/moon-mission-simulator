@@ -1,0 +1,10 @@
+    ofstream file("results/trajectory.txt");
+    moon_phase = 0.97; // 0.97
+
+    State s;
+
+    s.x = re + 200000.0;
+    s.y = 0.0;
+    s.vx = 2250.0; // 2250.0;
+    s.vy = 10695.0; // 10695.0;
+    s.m = mf;

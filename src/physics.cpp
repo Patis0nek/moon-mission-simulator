@@ -48,10 +48,13 @@ State derivatives(State s, double t)
     double axm = -G * mm * dxm / pow(rmoon, 3.0);
     double aym = -G * mm * dym / pow(rmoon, 3.0);
 
+    double axind = -G * mm * xm / pow(moon_distance, 3.0);
+    double ayind = -G * mm * ym / pow(moon_distance, 3.0);
+
     ds.x = s.vx;
     ds.y = s.vy;
-    ds.vx = axe + axm;
-    ds.vy = aye + aym;
+    ds.vx = axe + axm + axind;
+    ds.vy = aye + aym + ayind;
     ds.m = 0.0;
 
     return ds;
