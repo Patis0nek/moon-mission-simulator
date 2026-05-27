@@ -180,7 +180,6 @@ int main()
             }
         }
     }
-
     file.close();
 
     cout << endl;
