@@ -10,6 +10,10 @@ The goal of this project was to build a small numerical physics simulator that s
 
 ![Mission animation](plots/flight_inertial.gif)
 
+### Rotating reference frame
+
+![Mission animation](plots/flight_rotating.gif)
+
 ### Moon flyby zoomed
 
 ![Mission animation](plots/flyby_zoom.gif)
