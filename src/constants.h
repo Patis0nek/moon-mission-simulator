@@ -20,7 +20,7 @@ extern double moon_phase;
 const double m0 = 500000.0;
 const double mf = 120000.0;
 
-const double dt = 20.0;
+const double dt = 10.0;
 const double tmax = 16.0 * 24.0 * 3600.0;
 
 #endif

@@ -11,8 +11,8 @@ alpha = -1 rad
 TLI speed = 10930 m/s
 gamma = 0.375 rad
 
-closest Moon approach = 8248.67 km
-time of closest Moon approach = 93.317 h
+closest Moon approach = 8248.68 km
+time of closest Moon approach = 93.3142 h
 maximum Earth altitude = 388020 km
-return time = 187.234 h
-return velocity = 10.9804 km/s
+return time = 187.231 h
+return velocity = 10.9337 km/s
